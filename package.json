@@ -1,0 +1,28 @@
+{
+  "name": "anabot",
+  "version": "1.0.4",
+  "description": "AnA Beta Bot",
+  "main": "index.js",
+  "dependencies": {
+    "twit": "^2.2.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "anabot": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldjosh/AnA_Bot.git"
+  },
+  "keywords": [
+    "PlayAnAWith.me"
+  ],
+  "author": "ninja_josh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ldjosh/AnA_Bot/issues"
+  },
+  "homepage": "https://github.com/ldjosh/AnA_Bot#readme"
+}
