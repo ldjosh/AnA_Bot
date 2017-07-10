@@ -1,4 +1,4 @@
-gctvanabot
+http://bot.playanawith.me
 ==========
 
-GoldCoinTV Adventures &amp; Accidents bot
+Adventures &amp; Accidents bot
