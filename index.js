@@ -2,6 +2,7 @@ console.log('Botty Bot Bot is live');
 
 var Twit = require('twit');
 
+//I should take these out later cuz github lawls.
 var T = new Twit({
     consumer_key:         'esd3u48TKL0iaXmAsAMUVm7wo',
     consumer_secret:      'dVPqzi9is9la96nY03O2jBcScPOETODZ0BWO7dNHPa7swrIqAL',
